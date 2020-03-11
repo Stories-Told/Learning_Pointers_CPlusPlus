@@ -1,9 +1,9 @@
 /*-------------------------------------------------------*\
-|														  |
-|	                                                      |
-|	  Learning all about Pointers and References          |
-|                                                         |
-|                                                         |
+|	                                                 |
+|	                                                 |
+|	  Learning all about Pointers and References     |
+|                                                        |
+|                                                        |
 \*-------------------------------------------------------*/
 
 /* NOTES:
